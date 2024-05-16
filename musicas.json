@@ -1,0 +1,217 @@
+[
+    {
+      "musica": "Monaco",
+      "artista": "MKTO",
+      "citacao": "Eu vou para onde quer que você vá para conquistar o seu coração, princesa de Monaco.",
+      "img": "imgs/badGirlsMKTO.jpg",
+      "link": "https://open.spotify.com/intl-pt/track/3GQnWBLRh9GiaP34RlbTbK?si=0d578f7782d74982"
+    },
+    {
+      "musica": "So High School",
+      "artista": "Taylor Swift",
+      "citacao": "Ninguém nunca me teve, não como você.",
+      "img": "imgs/ttpdta.jpeg",
+      "link": "https://open.spotify.com/intl-pt/track/7Mts0OfPorF4iwOomvfqn1?si=2f3689c80d924e71"
+    },
+    {
+      "musica": "Call It What You Want",
+      "artista": "Taylor Swift",
+      "citacao": "Você não precisa me salvar, mas você fugiria comigo?",
+      "img": "imgs/reputation.jpeg",
+      "link": "https://open.spotify.com/intl-pt/track/1GwMQaZz6Au3QLDbjbMdme?si=0ea9a769496a4106"
+    },
+    {
+      "musica": "Die For You",
+      "artista": "The Weeknd",
+      "citacao": "A distância e o tempo entre nós nunca vão conseguir mudar minha mente, porque eu morreria por você.",
+      "img": "imgs/starboy.jpeg",
+      "link": "https://open.spotify.com/intl-pt/track/4W4fNrZYkobj539TOWsLO2?si=408445ddba8e4746"
+    },
+    {
+      "musica": "All Of The Girls You Loved Before",
+      "artista": "Taylor Swift",
+      "citacao": "Sou muito grata por todas as garotas que você já amou, mas eu te amo mais.",
+      "img": "imgs/lover.jpeg",
+      "link": "https://open.spotify.com/intl-pt/track/4P9Q0GojKVXpRTJCaL3kyy?si=87fa02f2535e454c"
+    },
+    {
+      "musica": "All Of The Girls You Loved Before",
+      "artista": "Taylor Swift",
+      "citacao": "Eu quero te ensinar qual é a sensação do para sempre.",
+      "img": "imgs/lover.jpeg",
+      "link": "https://open.spotify.com/intl-pt/track/4P9Q0GojKVXpRTJCaL3kyy?si=87fa02f2535e454c"
+    },
+    {
+      "musica": "All Of The Girls You Loved Before",
+      "artista": "Taylor Swift",
+      "citacao": "Todas as ruas sem saída te levaram direto para mim e agora você é tudo o que eu preciso.",
+      "img": "imgs/lover.jpeg",
+      "link": "https://open.spotify.com/intl-pt/track/4P9Q0GojKVXpRTJCaL3kyy?si=87fa02f2535e454c"
+    },
+    {
+      "musica": "Enchanted",
+      "artista": "Taylor Swift",
+      "citacao": "Tudo o que posso dizer é que fiquei encantada em te conhecer.",
+      "img": "imgs/speak-now.png",
+      "link": "https://open.spotify.com/intl-pt/track/3sW3oSbzsfecv9XoUdGs7h?si=8d315e2701fe4fd1"
+    },
+    {
+      "musica": "Enchanted",
+      "artista": "Taylor Swift",
+      "citacao": "Essa sou eu rezando para que essa seja a primeira página, não onde a história termina.",
+      "img": "imgs/speak-now.png",
+      "link": "https://open.spotify.com/intl-pt/track/3sW3oSbzsfecv9XoUdGs7h?si=8d315e2701fe4fd1"
+    },
+    {
+      "musica": "Exagerado",
+      "artista": "Cazuza",
+      "citacao": "Amor da minha vida, daqui até a eternidade.",
+      "img": "imgs/cazuza.jpg",
+      "link": "https://open.spotify.com/intl-pt/track/4d0DpU7Odiv0ztvX2GxJlk?si=1f9a20ae08a34be0"
+    },
+    {
+      "musica": "Exagerado",
+      "artista": "Cazuza",
+      "citacao": "Nossos destinos foram traçados na maternidade.",
+      "img": "imgs/cazuza.jpg",
+      "link": "https://open.spotify.com/intl-pt/track/4d0DpU7Odiv0ztvX2GxJlk?si=1f9a20ae08a34be0"
+    },
+    {
+      "musica": "Amuleto",
+      "artista": "Pedro Mendes",
+      "citacao": "Já me perdi nos seus caminhos tentando te decifrar, e o pior é que eu não quero nunca mais me encontrar.",
+      "img": "imgs/amuleto.jpg",
+      "link": "https://open.spotify.com/intl-pt/track/67WtVPFMaymhgUnBVDiQad?si=3afbe10ab0d74603"
+    },
+    {
+      "musica": "Amuleto",
+      "artista": "Pedro Mendes",
+      "citacao": "O seu sorriso é meu amuleto.",
+      "img": "imgs/amuleto.jpg",
+      "link": "https://open.spotify.com/intl-pt/track/67WtVPFMaymhgUnBVDiQad?si=3afbe10ab0d74603"
+    },
+    {
+      "musica": "Amuleto",
+      "artista": "Pedro Mendes",
+      "citacao": "Tirei sorte grande no amor, porque pra mim você chegou, ficou.",
+      "img": "imgs/amuleto.jpg",
+      "link": "https://open.spotify.com/intl-pt/track/67WtVPFMaymhgUnBVDiQad?si=3afbe10ab0d74603"
+    },
+    {
+      "musica": "Yellow",
+      "artista": "Coldplay",
+      "citacao": "Você sabe que eu te amo tanto?",
+      "img": "imgs/parachutes.jpg",
+      "link": "https://open.spotify.com/intl-pt/track/3AJwUDP919kvQ9QcozQPxg?si=50a6eec3e90c40e3"
+    },
+    {
+      "musica": "Yellow",
+      "artista": "Coldplay",
+      "citacao": "Por você, eu sangraria até secar.",
+      "img": "imgs/parachutes.jpg",
+      "link": "https://open.spotify.com/intl-pt/track/3AJwUDP919kvQ9QcozQPxg?si=50a6eec3e90c40e3"
+    },
+    {
+      "musica": "Sparks",
+      "artista": "Coldplay",
+      "citacao": "Mas eu te prometo que sempre vou cuidar de você.",
+      "img": "imgs/parachutes.jpg",
+      "link": "https://open.spotify.com/intl-pt/track/7D0RhFcb3CrfPuTJ0obrod?si=08791bdd1a7d44e7"
+    },
+    {
+      "musica": "Sparks",
+      "artista": "Coldplay",
+      "citacao": "Meu coração é seu.",
+      "img": "imgs/parachutes.jpg",
+      "link": "https://open.spotify.com/intl-pt/track/7D0RhFcb3CrfPuTJ0obrod?si=08791bdd1a7d44e7"
+    },
+    {
+      "musica": "A Sky Full Of Stars",
+      "artista": "Coldplay",
+      "citacao": "Você é um céu cheio de estrelas, você ilumina o caminho.",
+      "img": "imgs/ghost-stories.jpg",
+      "link": "https://open.spotify.com/intl-pt/track/0FDzzruyVECATHXKHFs9eJ?si=e8784b6a11aa44f4"
+    },
+    {
+      "musica": "So High School",
+      "artista": "Taylor Swift",
+      "citacao": "Você sabe jogar bola e eu conheço Aristóteles.",
+      "img": "imgs/ttpdta.jpeg",
+      "link": "https://open.spotify.com/intl-pt/track/7Mts0OfPorF4iwOomvfqn1?si=4c8aea36789b495c"
+    },
+    {
+      "musica": "Fearless",
+      "artista": "Taylor Swift",
+      "citacao": "E eu não sei porquê, mas com você eu dançaria em uma tempestade com o meu melhor vestido, sem medo.",
+      "img": "imgs/fearless.png",
+      "link": "https://open.spotify.com/intl-pt/track/77sMIMlNaSURUAXq5coCxE?si=d42005cdd58e4f14"
+    },
+    {
+      "musica": "Love Story",
+      "artista": "Taylor Swift",
+      "citacao": "É uma história de amor, meu bem, apenas diga sim.",
+      "img": "imgs/fearless.png",
+      "link": "https://open.spotify.com/intl-pt/track/6YvqWjhGD8mB5QXcbcUKtx?si=3e5520388c7842be"
+    },
+    {
+      "musica": "Tacones Rojos",
+      "artista": "Sebastian Yatra",
+      "citacao": "Porque ela me faz pensar que ganhei na loteria.",
+      "img": "imgs/dharma.jpg",
+      "link": "https://open.spotify.com/intl-pt/track/6ylDpki1VpIsc525KC1ojF?si=2e3be8937bf74159"
+    },
+    {
+      "musica": "Alinhamento Milenar",
+      "artista": "Jão",
+      "citacao": "Mesmo plano, hora exata. Você me ama e eu te amo. Alinhamento milenar, você não acha?",
+      "img": "imgs/super.png",
+      "link": "https://open.spotify.com/intl-pt/track/1AaBgDyjuG6ckj8PuRoG9m?si=fc5e5df0e6fe4dd19"
+    },
+    {
+      "musica": "Alinhamento Milenar",
+      "artista": "Jão",
+      "citacao": "E em todas as novas vidas que eu for viver, eu vou te escolher.",
+      "img": "imgs/super.png",
+      "link": "https://open.spotify.com/intl-pt/track/1AaBgDyjuG6ckj8PuRoG9m?si=fc5e5df0e6fe4dd19"
+    },
+    {
+      "musica": "Idiota",
+      "artista": "Jão",
+      "citacao": "Eu vou te amar como um idiota ama, vou te pendurar num quadro bem do lado da minha cama.",
+      "img": "imgs/pirata.png",
+      "link": "https://open.spotify.com/intl-pt/track/6EDj1nbl9wo6ivGI1t59G4?si=083d9f0c85e44783"
+    },
+    {
+      "musica": "Tutu",
+      "artista": "Camilo",
+      "citacao": "Eu te quero pra mim. Se você me disser que sim, eu morro e ressuscito só por você.",
+      "img": "imgs/por-primera-vez.jpeg",
+      "link": "https://open.spotify.com/intl-pt/track/1Ol5LmdNDNpFu1oNwfgkux?si=3735f4f053084845"
+    },
+    {
+      "musica": "Iris",
+      "artista": "The Goo Goo Dolls",
+      "citacao": "Eu desistiria da eternidade para te tocar.",
+      "img": "imgs/dizzy-up-the-girl.jpeg",
+      "link": "https://open.spotify.com/intl-pt/track/6Qyc6fS4DsZjB2mRW9DsQs?si=44e13e5c55bc456f"
+    },
+    {
+      "musica": "Iris",
+      "artista": "The Goo Goo Dolls",
+      "citacao": "Quando tudo é feito para ser quebrado, eu só quero que você saiba quem eu sou.",
+      "img": "imgs/dizzy-up-the-girl.jpeg",
+      "link": "https://open.spotify.com/intl-pt/track/6Qyc6fS4DsZjB2mRW9DsQs?si=44e13e5c55bc456f"
+    },
+    {
+      "musica": "Thinking out Loud",
+      "artista": "Ed Sheeran",
+      "citacao": "Querida, eu te amarei até que tenhamos 70 anos, e meu coração ainda se apaixonaria tão intensamente quanto foi aos 22.",
+      "img": "imgs/x.png",
+      "link": "https://open.spotify.com/intl-pt/track/34gCuhDGsG4bRPIf9bb02f?si=ed02f04e72f84de3"
+    }
+    
+
+
+
+  ]
+  
